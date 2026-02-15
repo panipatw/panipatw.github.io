@@ -28,3 +28,38 @@ Feeling Responsive is heavily customizable.
  [6]: https://phlow.github.io/feeling-responsive/changelog/
  [7]: http://phlow.github.io/feeling-responsive/
  [8]: http://phlow.github.io/simplicity/
+
+
+## To run web page on local ubuntu machine
+
+```bash
+# Update and upgrade system packages
+sudo apt update && sudo apt upgrade -y
+
+# Install Ruby
+sudo apt install ruby-full build-essential zlib1g-dev -y
+
+# Check ruby version
+ruby -v
+
+# By default, Ruby tries to install gems into system folders, which requires sudo and causes headaches. 
+# We want to tell Ruby to install them to a folder in your home directory instead.
+# Run these commands to update your .bashrc:
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+
+# Install bundler
+gem install bundler
+
+# cd to the directory where you have the Jekyll project and run:
+cd /path/to/your/jekyll/project
+
+bundle install
+
+# Finally, to serve the site locally, run:
+bundle exec jekyll serve
+
+# The site should then be accessible at http://localhost:4000 (or the port shown in the terminal output).
+```
