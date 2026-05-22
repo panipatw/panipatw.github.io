@@ -11,10 +11,10 @@
 title: 'Panipat W'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'abac'
+slogan: 'Machine Learning Engineer'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'A personal portfolio website to showcase my projects and ideas.'
+description: 'Personal portfolio of Panipat W — Machine Learning Engineer.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>This website is created based on <a href="https://github.com/Phlow/feeling-responsive">Feeling Responsive</a> theme by <a href="https://github.com/Phlow">Phlow</a>.</p>'

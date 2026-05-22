@@ -14,9 +14,9 @@ phlow: # replace this with your info
 # you can add more authors here
 
 
-panipatw: # replace this with your info
+panipatw:
   name: "Panipat W"
-  siterole: "webmaster, developer, copywriter, designer"
+  siterole: "Machine Learning Engineer"
   uri: http://panipatw.github.io/
-  email:
+  email: redact@gmail.com
   twitter:
