@@ -4,9 +4,13 @@
   url: "/info/"
   title: "About Me"
 
+- name: "Publications"
+  url: "/publications/"
+  title: "Publications"
+
 - name: "Projects"
   url: "/projects/"
-  title: "ML Projects"
+  title: "Projects"
 
 - name: "Blog"
   url: "/blog/"

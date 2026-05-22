@@ -1,11 +1,7 @@
 ---
 layout: page-fullwidth
-title: "ML Projects"
-subheadline: "Machine Learning & Data Science"
-teaser: "A collection of hands-on projects in machine learning, data analysis, and biomechanics research."
+title: "Projects"
 permalink: "/projects/"
-header:
-    image_fullwidth: "header_unsplash_9.jpg"
 ---
 
 <div class="row t30">
