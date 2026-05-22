@@ -2,7 +2,8 @@
 layout: page-fullwidth
 title: "Portfolio"
 permalink: "/portfolio-pw2026/"
-sitemap: false
+sitemap:
+  exclude: true
 noindex: true
 ---
 
