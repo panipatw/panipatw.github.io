@@ -2,12 +2,14 @@
 layout: page-fullwidth
 permalink: /index.html
 homepage: true
+header:
+  image_fullwidth: landing_page_logo_seaside_01.jpg
 ---
 
-<div class="row t60 b60">
+<div class="row t15 b60">
   <div class="small-12 columns text-center">
-    <h1>Panipat W</h1>
-    <p class="lead">Machine Learning Engineer &bull; Biomechanics Research &bull; Open to opportunities</p>
+    <h1>Panipat Wattanasiri</h1>
+    <p class="lead">Machine Learning Engineer &bull; Healthcare AI &bull; Biomechanics Researcher</p>
     <p>
       <a href="https://github.com/panipatw" target="_blank">GitHub</a>
       &nbsp;&nbsp;&middot;&nbsp;&nbsp;
