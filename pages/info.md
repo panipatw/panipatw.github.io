@@ -16,7 +16,7 @@ header:
 
 <div class="row t50" markdown="1">
 <div class="small-12 medium-3 columns text-center" markdown="1">
-<img src="{{ site.urlimg }}panipat-profile.jpg" alt="Panipat W" style="max-width: 200px; border-radius: 4px;" />
+<img src="{{ site.urlimg }}panipat-profile.jpg" alt="Panipat W" style="max-width: 200px; border-radius: 50%; box-shadow: 0 4px 14px rgba(0,0,0,0.25);" />
 </div>
 <div class="small-12 medium-9 columns" markdown="1">
 
