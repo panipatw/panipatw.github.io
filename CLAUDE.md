@@ -6,6 +6,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Personal portfolio site for **Panipat W** — Machine Learning Engineer with a background in biomechanics research. Built on the [Feeling Responsive](https://github.com/Phlow/feeling-responsive) Jekyll theme, deployed to GitHub Pages at `https://panipatw.github.io`. The site is designed for job hunting: minimal style, focused on About, Publications, Projects, Blog, and Contact.
 
+## Writing Style
+
+- **Never use em dashes** anywhere, including code (comments, strings), commit messages, and site copy (pages, posts, bio text). Use commas, periods, or parentheses instead.
+
 ## Local Development
 
 ```bash

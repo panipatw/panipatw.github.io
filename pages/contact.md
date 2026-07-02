@@ -4,7 +4,7 @@ title: "Contact"
 permalink: "/contact/"
 ---
 
-The best way to reach me is by email: [redact@gmail.com](mailto:redact@gmail.com)
+Please feel free to reach out to [redact@gmail.com](mailto:redact@gmail.com) if you want to get in touch.
 
 You can also find me on:
 - [LinkedIn](https://linkedin.com/in/panipatw)
