@@ -36,6 +36,7 @@ This is a **public repository** — commit messages are visible to anyone. Follo
 - **No `Co-Authored-By` lines.** Never include `Co-Authored-By: Claude` or any AI attribution in commit messages.
 - **No references to external sites or tools** used as design inspiration (e.g. do not name third-party sites in commit messages).
 - **Author identity:** The repo git config is set to `Panipat W <38853478+panipatw@users.noreply.github.com>`. All commits should appear under this identity only.
+- **Format:** Keep commit messages to simple, short bullet points (no long prose paragraphs).
 
 ## Site Structure
 
