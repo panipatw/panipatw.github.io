@@ -22,13 +22,9 @@ header:
 
 Hi there, I'm Panipat!
 
-I work in applied machine learning, especially in medical devices and healthcare applications.
-My background is in mechanical engineering and biomechanics, where I developed mechanical prosthetics and hip implants during my master's degree.
-I then pivoted to machine learning during my PhD at Imperial, where I worked on hand gesture recognition research, which is closely related to the prosthetic hand work I'd done before.
+I work in applied machine learning, especially in medical devices and healthcare applications. My background is in mechanical engineering and biomechanics, where I developed mechanical prosthetics and hip implants during my master's degree. I then pivoted to machine learning during my PhD at Imperial, where I worked on hand gesture recognition research, which is closely related to the prosthetic hand work I'd done before.
 
-Currently, my main interest is ML for MedTech applications.
-I also enjoy working across the whole ML pipeline, from research (ML problem statement, data processing, model development) through to deploying systems that people actually rely on.
-Additionally, I have hands-on experience developing Class III medical devices, particularly building Quality Management Systems (QMS) to meet regulatory standards and get them approved.
+Currently, my main interest is ML for MedTech applications. I also enjoy working across the whole ML pipeline, from research (ML problem statement, data processing, model development) through to deploying robust systems that people actually rely on. Additionally, I have hands-on experience developing Class III medical devices, particularly building Quality Management Systems (QMS) to meet regulatory standards and get them approved.
 
 Another skill I picked up along the way is that I can program and run industrial CNC manufacturing machines (e.g., lathes, 5-axis CNC machining, etc.), which could come in handy for any prototyping or physical product development.
 
