@@ -10,7 +10,7 @@ header:
 #masthead > .backstretch > img { transform: translateY(-400px) !important; }
 </style>
 
-My research focuses on machine learning for healthcare applications and medical devices, including hand gesture recognition, physiological signal processing, and the development of prosthetics, implants, and assistive wearable devices.
+My research focuses on machine learning for healthcare and medical devices, including hand gesture recognition, physiological signal processing, and the development of prosthetics, implants, and assistive wearable devices.
 
 ---
 
