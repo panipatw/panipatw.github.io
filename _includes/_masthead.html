@@ -48,7 +48,7 @@
 
 {% elsif page.header.image_fullwidth %}
 
-<div id="masthead"></div><!-- /#masthead -->
+<div id="masthead" style="background-image: url('{{ site.urlimg }}{{ page.header.image_fullwidth }}'); background-position: {% if page.header.image_position %}{{ page.header.image_position }}{% else %}center center{% endif %};"></div><!-- /#masthead -->
 
 {% if page.breadcrumb == true %}
 {% include _breadcrumb.html %}

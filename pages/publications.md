@@ -4,11 +4,8 @@ title: "Publications"
 permalink: "/publications/"
 header:
   image_fullwidth: page_banner_03_fuji.jpg
+  image_position: center 75%
 ---
-
-<style>
-#masthead > .backstretch > img { transform: translateY(-400px) !important; }
-</style>
 
 My research focuses on machine learning for healthcare and medical devices, including hand gesture recognition, physiological signal processing, and the development of prosthetics, implants, and assistive wearable devices.
 
