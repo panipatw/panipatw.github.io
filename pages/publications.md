@@ -2,9 +2,15 @@
 layout: page-fullwidth
 title: "Publications"
 permalink: "/publications/"
+header:
+  image_fullwidth: page_banner_03_fuji.jpg
 ---
 
-My research focuses on gesture recognition, mechanomyogram signal processing, prosthetics, and wearable assistive devices.
+<style>
+#masthead > .backstretch > img { transform: translateY(-400px) !important; }
+</style>
+
+My research focuses on machine learning for healthcare and medical devices, including hand gesture recognition, physiological signal processing, and the development of prosthetics, implants, and assistive wearable devices.
 
 ---
 

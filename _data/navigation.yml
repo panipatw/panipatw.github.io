@@ -14,10 +14,6 @@
   url: "/projects/"
   side: left
 
-- title: Blog
-  url: "/blog/"
-  side: left
-
 - title: Contact
   url: "/contact/"
   side: right

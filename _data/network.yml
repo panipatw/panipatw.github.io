@@ -7,7 +7,3 @@
 - name: "GitHub"
   url: "https://github.com/panipatw"
   title: "GitHub"
-
-- name: "RSS Feed"
-  url: "/feed.xml"
-  title: "Subscribe to RSS Feed"

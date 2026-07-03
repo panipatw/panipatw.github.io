@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Example ML Project"
+title: "Example Project"
 subheadline: "Machine Learning · Python"
 teaser: "A short one-sentence description of what this project does and why it matters."
 header:

@@ -12,10 +12,6 @@
   url: "/projects/"
   title: "Projects"
 
-- name: "Blog"
-  url: "/blog/"
-  title: "Blog"
-
 - name: "Contact"
   url: "/contact/"
   title: "Contact"
