@@ -2,7 +2,13 @@
 layout: page-fullwidth
 title: "Projects"
 permalink: "/projects/"
+header:
+  image_fullwidth: page_banner_04_seaside_boats.jpg
 ---
+
+<style>
+#masthead > .backstretch > img { transform: translateY(-180px) !important; }
+</style>
 
 <div class="row t30">
 {% assign projects = site.categories.projects %}

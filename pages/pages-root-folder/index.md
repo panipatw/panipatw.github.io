@@ -3,7 +3,7 @@ layout: page-fullwidth
 permalink: /index.html
 homepage: true
 header:
-  image_fullwidth: page_banner_seaside_01.jpg
+  image_fullwidth: page_banner_01_seaside.jpg
 ---
 
 <div class="row t15 b60">

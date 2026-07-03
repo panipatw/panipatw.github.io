@@ -3,14 +3,10 @@ layout: page-fullwidth
 title: "About"
 permalink: "/info/"
 header:
-  image_fullwidth: page_banner_seaside_02.jpg
+  image_fullwidth: page_banner_02_seaside.jpg
 ---
 
 <style>
-@media only screen and (max-width: 40em) { #masthead { height: 220px !important; } }
-@media only screen and (min-width: 40.063em) and (max-width: 64em) { #masthead { height: 300px !important; } }
-@media only screen and (min-width: 64.063em) and (max-width: 90em) { #masthead { height: 340px !important; } }
-@media only screen and (min-width: 90.063em) { #masthead { height: 380px !important; } }
 #masthead > .backstretch > img { transform: translateY(-100px) !important; }
 </style>
 
