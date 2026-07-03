@@ -70,9 +70,8 @@ body.video cite { color: #fff; }
 
 #masthead {
     background-color: $primary-color;
-}
-#masthead > .backstretch > img {
-    transform: translateY(0px) !important;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 #masthead-no-image-header {
     background-color: $primary-color;

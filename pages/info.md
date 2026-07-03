@@ -4,11 +4,8 @@ title: "About"
 permalink: "/info/"
 header:
   image_fullwidth: page_banner_02_seaside.jpg
+  image_position: center 80%
 ---
-
-<style>
-#masthead > .backstretch > img { transform: translateY(-100px) !important; }
-</style>
 
 <div class="row t50" markdown="1">
 <div class="small-12 medium-3 columns text-center" markdown="1">
