@@ -10,7 +10,7 @@ header:
 #masthead > .backstretch > img { transform: translateY(-180px) !important; }
 </style>
 
-Please feel free to reach out to [redact@gmail.com](mailto:redact@gmail.com) if you want to get in touch.
+Please feel free to reach out to [panipat.blog498@silomails.com](mailto:panipat.blog498@silomails.com) if you want to get in touch.
 
 You can also find me on:
 - [LinkedIn](https://linkedin.com/in/panipatw)
