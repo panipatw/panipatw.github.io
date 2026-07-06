@@ -28,5 +28,5 @@ noindex: true
 
 <div class="portfolio-pdf-mobile" style="text-align:center; padding: 60px 20px;">
   <p>On a small screen or a narrow browser window, PDFs embedded like this can't be reliably scrolled.</p>
-  <a href="{{ site.baseurl }}/assets/portfolio/panipat-portfolio-f25109cd6ae4.pdf" class="button radius" target="_blank" rel="noopener">Open PDF</a>
+  <a href="{{ site.baseurl }}/assets/portfolio/panipat-portfolio-f25109cd6ae4.pdf" class="button radius" target="_blank" rel="noopener" style="display:inline-block; margin-top:20px;">Open PDF</a>
 </div>
