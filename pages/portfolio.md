@@ -1,18 +1,19 @@
 ---
 layout: page-fullwidth
 title: "Portfolio"
-permalink: "/portfolio-pw2026/"
+permalink: "/portfolio-f25109cd6ae4/"
+header: false
 sitemap:
   exclude: true
 noindex: true
 ---
 
-<div style="width:100%; height:90vh;">
-  <iframe src="{{ site.baseurl }}/assets/portfolio/panipat-portfolio.pdf"
+<div style="width:90vw; position:relative; left:50%; margin-left:-45vw; height:90vh;">
+  <iframe src="{{ site.baseurl }}/assets/portfolio/panipat-portfolio-f25109cd6ae4.pdf"
           width="100%" height="100%"
           style="border:none;">
     <p>Your browser does not support embedded PDFs.
-       <a href="{{ site.baseurl }}/assets/portfolio/panipat-portfolio.pdf">Download the PDF</a> instead.
+       <a href="{{ site.baseurl }}/assets/portfolio/panipat-portfolio-f25109cd6ae4.pdf">Download the PDF</a> instead.
     </p>
   </iframe>
 </div>
