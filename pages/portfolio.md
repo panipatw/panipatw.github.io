@@ -8,7 +8,7 @@ sitemap:
 noindex: true
 ---
 
-<div style="width:100%; height:90vh;">
+<div style="width:90vw; position:relative; left:50%; margin-left:-45vw; height:90vh;">
   <iframe src="{{ site.baseurl }}/assets/portfolio/panipat-portfolio-f25109cd6ae4.pdf"
           width="100%" height="100%"
           style="border:none;">
